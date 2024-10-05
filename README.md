@@ -1,0 +1,1 @@
+## Repositório Criado para um sistema de gerenciamento de escolas em django.
